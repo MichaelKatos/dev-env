@@ -1,5 +1,9 @@
-### Setting Up My Development Environment
+# Setting Up My Development Environment
 
 ```javascript
-var helloWorld = "Hello World";
+var codeblocks = "```<lang> /n ..... /n```";
 ```
+## Syntax Cheatsheets
+
+##### Mark :down:
+* [Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
