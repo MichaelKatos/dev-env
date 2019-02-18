@@ -5,5 +5,5 @@ var codeblocks = "```<lang> /n ..... /n```";
 ```
 ## Syntax Cheatsheets
 
-##### Mark :down:
+##### Mark :arrow_down:
 * [Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
