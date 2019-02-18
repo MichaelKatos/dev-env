@@ -1,9 +1,8 @@
 # Setting Up My Development Environment
 
-```javascript
-var codeblocks = "```<lang> /n ..... /n```";
-```
-## Syntax Cheatsheets
+## Syntax Specific Cheat Sheets
 
-##### Mark :arrow_down:
+##### MarkDown
+
 * [Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [GitHub Emojis Cheatsheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
