@@ -9,11 +9,9 @@
 
 ###### VS Code
 * [Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
-*
 
 ###### Git / :octocat:
 * [Git Commands Shortcuts](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
-*
 
 ###### HTML
 * [HTML Cheatsheet](https://htmlcheatsheet.com/)
