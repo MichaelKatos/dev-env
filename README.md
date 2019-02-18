@@ -1,8 +1,8 @@
 # Setting Up My Development Environment
 
-## Syntax Specific Cheat Sheets
+#### Syntax Specific Cheat Sheets
 
-##### MarkDown
+###### MarkDown
 
-* [Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-* [GitHub Emojis Cheatsheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
+* [*Cheat* **Sheet**](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [GitHub :octocat: Emojis Cheatsheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
