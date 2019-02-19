@@ -21,3 +21,6 @@
 
 ###### JavaScript
 * [JS Cheatsheet](https://htmlcheatsheet.com/js/)
+
+###### React.js
+* [React Cheatsheet](https://devhints.io/react)
